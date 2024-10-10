@@ -23,16 +23,17 @@
 4. Change the parameter `Affid`.
 5. Change the parameter `Subid`.
 6. Run `Installer.iss`.
-7. After run `Installer.iss` you can find the install file (.exe) on `PDFConverterWebView2/Installers`.
+7. After run `Installer.iss` you can find the install file (.exe) on `FLIP 2 PDF/Installers`.
 
 
 ## Installation
 
-1. End users will get the exe file in the `PDFConverterWebView2/Installers` folder.
+1. End users will get the exe file in the `FLIP 2 PDF/Installers` folder.
 2. Run the installer. (silent installation).
 3. The application will automatically launch after installation and a thank you page will be opened in a browser.
 4. Users will also be able to run the app at any time via a shortcut on their desktop.
-5. The file `PDFConverter` will be installed in folder `C:\`.
+6. Users will be prompted to choose in which folder to install the app. .
+
 
 ## Building the Project
 
